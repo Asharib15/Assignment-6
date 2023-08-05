@@ -1,0 +1,31 @@
+/* CSS styles for the .box container */
+.box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    
+}
+
+/* CSS styles for the center element (deprecated, use CSS instead) */
+center {
+    text-align: center;
+}
+
+/* CSS styles for the h1 heading */
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: greenyellow;
+}
+
+/* CSS styles for the .pack paragraph */
+.pack {
+    font-size: 16px;
+    line-height: 1.6;
+    color: white;
+    
+}
+.pack > ol{
+    color: white;
+}
